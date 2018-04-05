@@ -10,6 +10,8 @@ $ cp .bash_profile .hushlogin ~/. && open Bitpshr.terminal
 
 ## Demo
 
+![Terminal preview](https://i.gyazo.com/664252bd821575e84e98f7e987a4cdc8.png)
+
 ## License
 
 [WTFPL](http://www.wtfpl.net/)
